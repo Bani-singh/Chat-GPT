@@ -13,7 +13,7 @@ function ChatSection() {
     
       <div className='topsection'>
       {!showResult?<div className='heading'>
-          <span>HELLO HIMANSHU,</span>
+          <span>HELLO BANI,</span>
           <span>I'm your own Assistant</span>
           <span>What can i help u</span>
         </div>:<div className='result'>
